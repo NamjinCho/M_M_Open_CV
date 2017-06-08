@@ -22,7 +22,7 @@
     <ProjectGuid>{FF270D1F-F5AD-4B0B-BD0D-E8703F78706D}</ProjectGuid>
     <RootNamespace>M_M_Open_CV</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>M_M_Open_CV6</ProjectName>
+    <ProjectName>M_M_Open_CV3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -126,6 +126,7 @@
     <ClCompile Include="0427_interoplate.cpp" />
     <ClCompile Include="0518.cpp" />
     <ClCompile Include="0601.cpp" />
+    <ClCompile Include="0608_Histogram.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
